@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MQTTAudio": {
+      "commandName": "Project",
+      "commandLineArgs": "sender"
+    },
+    "MQTTAudio Receiver": {
+      "commandName": "Project",
+      "commandLineArgs": "reciever"
+    }
+  }
+}
